@@ -1,5 +1,9 @@
 <h1 align="center">
 Calculator
+
+---
+
+<img src="https://github.com/James-Boarati/Calculator/blob/master/img/fotodoprojeto.JPG?raw=true">
 </h1>
 
 ## Sobre
